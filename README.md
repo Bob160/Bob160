@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on **cool personal projects and some open source projects**
-- 🌱 I’m currently learning **React.js, Express, Node and MongoDB**
+- 🌱 I’m currently learning **React.js, Express, Node, MongoDB and Java**
 - 👯 I’m looking to collaborate on **interesting and challenging projects including open source**
 - 💬 Ask me about **Anything...including open source. Always eager to help!**
 - 📫 How to reach me: **efioesien@gmail.com**
