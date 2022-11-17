@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Efio-esien Efiom</h3>
-<h5 align="center">A passionate fullstack software developer with interest in Web Development. Using the latest web technologies to create some of the most amazing websites and web apps out there!</h5>
+<h5 align="center">A passionate fullstack software developer with interest in Java Backend Development. Using the latest web technologies to create some of the most amazing websites and web apps out there!</h5>
 
 <p align="left"> <a href="https://twitter.com/efioesien" target="blank"><img src="https://img.shields.io/twitter/follow/efioesien?logo=twitter&style=for-the-badge" alt="efioesien" /></a> </p>
 
