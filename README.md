@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/efioesien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efioesien" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/efioesienefiom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efioesienefiom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/efioesien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efioesienefiom" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on **cool personal projects and some open source projects**
